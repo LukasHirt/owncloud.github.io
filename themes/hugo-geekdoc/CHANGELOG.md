@@ -1,2 +1,3 @@
 - BUGFIX
-  - fix flexsearch loading
+  - fix empty search list after pae refresh
+  - fix search issue if `geekdocSearchShowParent` is disabled
